@@ -3,7 +3,7 @@
 # Installation
 You can install hashpassword via npm:
 
-npm install hashpassword
+npm i hashpassword-pkz
 
 # Importing the Library
 const { hashPassword, verifyPassword } = require('hashpassword');
