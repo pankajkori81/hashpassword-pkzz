@@ -1,2 +1,4 @@
 # hashpassword-pkzz
-hash password 
+
+#Installation
+You can install hashpassword via npm:
