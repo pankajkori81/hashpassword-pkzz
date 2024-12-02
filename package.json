@@ -1,17 +1,20 @@
 {
-  "name": "hashpassword",
+  "name": "hashpassword-pkz",
   "version": "1.0.0",
-  "description": "",
+  "description": "hashpassword function",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "bcrypt": "^5.1.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajkori81/hashpassword-pkzz.git"
+  },
+  "author": "Pankaj Kori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajkori81/hashpassword-pkzz/issues"
+  },
+  "homepage": "https://github.com/pankajkori81/hashpassword-pkzz#readme"
 }
-
